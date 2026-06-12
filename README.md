@@ -125,26 +125,6 @@ Stego images remain visually indistinguishable from original cover images under 
 - PIN-Based Authentication
 - Image Quality Assessment Metrics
 
-### Usage
-
-#### Embedding Process
-
-1. Launch the sender interface.
-2. Select the cover image.
-3. Select the secret image.
-4. Enter a secure PIN.
-5. Click **Embed**.
-6. Save the generated stego image.
-
-#### Extraction Process
-
-1. Launch the receiver interface.
-2. Load the stego image.
-3. Enter the correct PIN.
-4. Click **Extract**.
-5. Recover and save the secret image.
-
-
 ## Future Enhancements
 
 - AES-based encryption before embedding
