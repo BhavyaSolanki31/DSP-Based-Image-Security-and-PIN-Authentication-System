@@ -1,1 +1,31 @@
+# MATLAB autosave and backup files
+*.asv
+*.autosave
+*.m~
 
+# MATLAB generated folders
+slprj/
+codegen/
+resources/project/
+
+# Compiled MATLAB files
+*.mex*
+*.p
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Generated output files (optional)
+mosaic_encrypted_multilayer.png
+mosaic_key_multilayer.mat
+recovered_secret.png
