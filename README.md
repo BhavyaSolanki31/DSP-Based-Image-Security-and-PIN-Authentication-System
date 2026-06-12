@@ -1,0 +1,2 @@
+# DSP-Based-Image-Security-and-PIN-Authentication-System
+A MATLAB-based image security system designed to protect confidential visual data through DSP techniques and PIN-based authentication. It enables secure embedding and retrieval of hidden images using LSB steganography, while incorporating features such as pixel randomization, watermark integration and an intuitive GUI to prevent unauthorized access
